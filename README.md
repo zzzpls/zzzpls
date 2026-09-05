@@ -1,13 +1,6 @@
 # Hi, I'm zzzpls 👋
 기술보다 개발.
 
-## skills.
-[![My Skills](https://skillicons.dev/icons?i=java,spring&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=postgres,redis,elasticsearch&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=docker,aws,nginx&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=git,github,githubactions&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=grafana,prometheus,postman&theme=light)](https://skillicons.dev)
-
 ## projects.
 | 프로젝트 | 설명 | 기간 |
 |----------|------|-------|
